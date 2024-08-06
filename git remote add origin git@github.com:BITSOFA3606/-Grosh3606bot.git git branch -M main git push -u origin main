@@ -1,0 +1,3 @@
+git remote add origin git@github.com:BITSOFA3606/-Grosh3606bot.git
+git branch -M main
+git push -u origin main
